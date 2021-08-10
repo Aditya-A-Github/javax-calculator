@@ -1,2 +1,8 @@
 # javax-calculator
-Calculator made using the Java Swing library.
+
+Open the foldeer in a CLI, then type <br>
+``javac App.java``
+
+Now, type <br>
+``java App``
+to run the calculator.
